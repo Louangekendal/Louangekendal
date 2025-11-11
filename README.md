@@ -29,7 +29,7 @@ I'm **Louange**, a Cloud Enthusiast passionate about building, securing, and aut
 ---
 
 ### 💡 Motto
-> _"Keep learning. Keep automating. Keep improving."
+> "Keep learning. Keep automating. Keep improving."
 ---
 
 ⭐ **Tip:** If you find my projects helpful, consider starring ⭐ them — it helps me grow and connect with like-minded professionals!
