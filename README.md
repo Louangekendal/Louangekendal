@@ -10,7 +10,7 @@ I'm **Louange**, a Cloud Enthusiast passionate about building, securing, and aut
 
 ---
 
-### 🧠 Tech Stack & Tools
+###  Tech Stack & Tools
 
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/powershell/)
@@ -21,14 +21,14 @@ I'm **Louange**, a Cloud Enthusiast passionate about building, securing, and aut
 
 ---
 
-### 🚀 Current Focus
+###  Current Focus
 - Designing **secure Azure environments** using best practices (NSGs, Backup, Monitoring, etc).  
 - Automating infrastructure deployment through **Infrastructure as Code (IaC)**.  
 - Enhancing cloud **governance and cost optimization** with resource tagging and policies.  
 
 ---
 
-### 💡 Motto
+###  Motto
 > "Keep learning. Keep automating. Keep improving."
 ---
 
